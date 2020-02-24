@@ -21,6 +21,22 @@
             "whileAB",
             "whileAB.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "forAB",
+            "forAB.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calcAB",
+            "calcAB.json"
+          ]
         }
       ],
       "configxml": null,
@@ -100,5 +116,5 @@
   "phonegap_email": "",
   "phonegap_password": "",
   "script": "",
-  "version": 7
+  "version": 8
 }
